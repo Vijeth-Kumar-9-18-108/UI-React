@@ -1,0 +1,70 @@
+/* AboutUs.css */
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    color: #ff0000;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    color: #555;
+  }
+  
+  .about-image {
+    width: 100%;
+    border-radius: 10px;
+    margin: 20px 0;
+  }
+  
+  .team {
+    margin-top: 40px;
+  }
+  
+  .team h2 {
+    color: #ff0000;
+    margin-bottom: 20px;
+  }
+  
+  .team-member {
+    display: inline-block;
+    margin: 0 20px;
+    text-align: center;
+  }
+  
+  .team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .team-member h3 {
+    color: #333;
+    margin: 10px 0 5px;
+  }
+  
+  .team-member p {
+    margin: 0;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .fade-in {
+    animation: fadeIn 2s ease-in;
+  }
+  

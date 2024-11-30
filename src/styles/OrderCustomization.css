@@ -1,0 +1,110 @@
+/* OrderCustomization.css */
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    color: #ff0000;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    margin-bottom: 20px;
+    color: #555;
+  }
+  
+  .customization-form {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .checkbox-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .checkbox-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .customization-form label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .customization-form select,
+  .customization-form input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+  
+  .customization-form input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  .customization-form button {
+    background-color: #ff0000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .customization-form button:hover {
+    background-color: #cc0000;
+  }
+  
+  .selected-items {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .selected-items h2 {
+    color: #ff0000;
+    margin-bottom: 10px;
+  }
+  
+  .selected-items p {
+    margin: 5px 0;
+  }
+  
+  .submit-button {
+    display: block;
+    margin: auto;
+  }
+  
+  .fade-in {
+    animation: fadeIn 2s ease-in;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  

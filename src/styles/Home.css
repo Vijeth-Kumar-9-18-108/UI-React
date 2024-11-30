@@ -1,0 +1,116 @@
+/* Home.css */
+.home-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .hero-image {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjsc5iGn4nJkCzITtra_Mc7zzz1_hnFi-XsbkVa_Tfi3rG3okh91Bx0ylmYdcqjtmIDLrAZ-UVhuwJn311xO8r7d3YQ7BenTrX5xWZDnAZuonSouooC2xLnSRywCWiB5ppaijvdcsXlE3-2FT8iC9WphkgAepWF3Dy7iDV9NuEQqBloEfCxFYdQRK-FM8/s6912/as.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .hero-image::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+  }
+  
+  h1, h2, h3 {
+    margin: 20px 0;
+    color: #ff0000;
+  }
+  
+  p {
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .promotions {
+    margin-top: 40px;
+  }
+  
+  .promotion-item {
+    display: inline-block;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .promotion-item img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .categories {
+    margin-top: 20px;
+  }
+  
+  .category-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .category {
+    flex: 1;
+    min-width: 250px;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .category img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .category:hover {
+    transform: scale(1.05);
+  }
+  
+  .featured-items {
+    margin-top: 40px;
+  }
+  
+  .featured-item {
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+  }
+  
+  .featured-item:hover {
+    transform: scale(1.05);
+  }
+  
+  @media (max-width: 768px) {
+    .category-list {
+      flex-direction: column;
+    }
+  
+    .promotion-item {
+      width: 100%;
+    }
+  }
+  
