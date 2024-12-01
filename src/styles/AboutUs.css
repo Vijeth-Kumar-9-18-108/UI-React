@@ -1,4 +1,3 @@
-/* AboutUs.css */
 .container {
     max-width: 1200px;
     margin: auto;
@@ -67,6 +66,3 @@
   .fade-in {
     animation: fadeIn 2s ease-in;
   }
-  
-
-  /* mo */
