@@ -52,4 +52,3 @@ const ShoppingCart = () => {
 };
 
 export default ShoppingCart;
-//mo
