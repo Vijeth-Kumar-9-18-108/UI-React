@@ -44,15 +44,15 @@ const OrderCustomization = () => {
             </div>
             <div className="checkbox-item">
               <input type="checkbox" value="Vegetables" onChange={handleIngredientChange} />
-              <label>Vegetables</label>
+              <label>Masala Dosa</label>
             </div>
             <div className="checkbox-item">
               <input type="checkbox" value="Cheese" onChange={handleIngredientChange} />
-              <label>Cheese</label>
+              <label>Veg Biryani</label>
             </div>
             <div className="checkbox-item">
               <input type="checkbox" value="Olives" onChange={handleIngredientChange} />
-              <label>Olives</label>
+              <label>Golibaje</label>
             </div>
             <div className="checkbox-item">
               <input type="checkbox" value="Tomatoes" onChange={handleIngredientChange} />
@@ -99,3 +99,4 @@ const OrderCustomization = () => {
 };
 
 export default OrderCustomization;
+//mo

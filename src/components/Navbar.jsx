@@ -6,7 +6,7 @@ const Navbar = () => (
   <nav className="navbar">
     <div className="navbar-logo">
       <Link to="/">
-        <img src="https://via.placeholder.com/100x50?text=Logo" alt="Food Wonder Logo" />
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmGeXHe1w5Lg3_EQqloqd7qHK_CujI_iR6V8wBZYZX8z7jTJczG2eBFzzzpHg3GK0MjpZwz_70MSwrbh4DlzHuEfTdimxJjqLIqd47E_H_IhnGjpuVlD7_J5KTLg-czor6nA_a5mxqk0QX3YGnincSq5JCDq4GgNHwdH0AgFNJ1mjzg9TognjsyjoPb04/w945-h600-p-k-no-nu/df.png" alt="Food Wonder Logo" />
       </Link>
     </div>
     <ul className="navbar-menu">
@@ -27,3 +27,4 @@ const Navbar = () => (
 );
 
 export default Navbar;
+//mo

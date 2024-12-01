@@ -27,24 +27,24 @@ const Home = () => (
           <h3>Starters</h3>
         </div>
         <div className="category">
-          <img src="https://via.placeholder.com/250?text=Main+Course" alt="Main Course" />
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinh-Es5zLJLyB-re2DSwsEUh8t6pfGfl3-P_gLMT7DWkp1LsXe87svf1G1-KR81yWoZEyp1-kgacaF9QBC9RYhe6gkRV04QnO9aIH9hK2kBYbpV9B8ifF3AvfWTDCyA45X6MqXYlMwO0BV4k_3G68ys-T42ZN88MqhLK-5mnygfcv4rHPrHAjPzcPqPTo/s320/golibaje.png" alt="Main Course" />
           <h3>Main Course</h3>
         </div>
         <div className="category">
-          <img src="https://via.placeholder.com/250?text=Desserts" alt="Desserts" />
-          <h3>Desserts</h3>
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfz9E34LwR47JlFkv_iUO71C-cORXeardT2ZuD1sONskiSPHOpFNICXNFyHpbKfE8Xn1j0y1vdwJ43Q5VM4sJ2VXXAmnBVz-F5YZpLIirSShfDVkJ1Winxq8smTxmn4ousK7spi2cH_r3TTQvSDA8tRtqi0iYzLXsNS65RS-vT1id6qtqiC99KbJpZKo/s320/b.png" alt="Desserts" />
+          <h3>Biryani</h3>
         </div>
         <div className="category">
-          <img src="https://via.placeholder.com/250?text=Salads" alt="Salads" />
-          <h3>Salads</h3>
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_W69f-EtKOSqU7oDkCqb0cTzyXK7QV14TJi7aVwnBPik_nMdN0bIeTrYRBrOOv6kbADQrm730jAMivn7PqdKA4h3ihiBgYftM4eyT7ifPZ2Qsi7za8AJdBk91DDyGVhowsnwr13OyISoUIerCFEL4mI380A2SbvLCdgOe8llLc9wTUCQt_CzbUWgrZpQ/s320/gobi.png" alt="Salads" />
+          <h3>Gobi Manchuriyan</h3>
         </div>
         <div className="category">
-          <img src="https://via.placeholder.com/250?text=Beverages" alt="Beverages" />
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpMey340Y1vjUx-Q9iIibJoQAsgubp5RNniIV8QRIGOb16TcTIWuzip08BgbIX8GAnc8ZF75lVsMyeqyqpPTkqY77C6uL_IVQC8bVG53wPdNx426HIDkYzZIKUSn-ZyOzSlFA-ye022pU6qGJEr9KRCbWgRbBvJ-XyNXybIeArXS5zw_ivGmAmDzB5vFg/s320/beverage.png" alt="Beverages" />
           <h3>Beverages</h3>
         </div>
         <div className="category">
-          <img src="https://via.placeholder.com/250?text=Sides" alt="Sides" />
-          <h3>Sides</h3>
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-XpqtkiFcU2m-cMP9KpFDsDU2iKb9KqjLGUJByqwEkFNf-8hVCSqNCxLuNPhRWeCuHXLZpCKnYbD53mzHN_vEoSNYk8ItLIMECvAtZdeuaqG8sQ_1JGWlJ6cR5HS5Md_QunUpvd7qiMu2sxmrr-rXGP4zBfPb98Yl0L7_wHD1gnlmdnhPdOhUG5HEug0/s320/burger.png" alt="Sides" />
+          <h3>Burger</h3>
         </div>
       </div>
     </div>
@@ -67,3 +67,7 @@ const Home = () => (
 );
 
 export default Home;
+
+
+//home
+
