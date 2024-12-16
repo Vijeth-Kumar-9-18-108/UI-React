@@ -57,4 +57,3 @@ const SignUpLogin = () => {
 };
 
 export default SignUpLogin;
-//mo
