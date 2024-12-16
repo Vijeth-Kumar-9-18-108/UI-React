@@ -24,7 +24,9 @@
   
   .navbar-menu li {
     display: inline;
-    border: 2px solid #fff;
+
+    border: 2px solid #fff; 
+
     border-radius: 5px;
     padding: 5px 10px;
     transition: background-color 0.3s ease, border 0.3s ease;
