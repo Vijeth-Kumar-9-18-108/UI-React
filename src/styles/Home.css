@@ -11,8 +11,8 @@
   .hero-image {
     width: 100%;
     height: 400px;
-    background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjsc5iGn4nJkCzITtra_Mc7zzz1_hnFi-XsbkVa_Tfi3rG3okh91Bx0ylmYdcqjtmIDLrAZ-UVhuwJn311xO8r7d3YQ7BenTrX5xWZDnAZuonSouooC2xLnSRywCWiB5ppaijvdcsXlE3-2FT8iC9WphkgAepWF3Dy7iDV9NuEQqBloEfCxFYdQRK-FM8/s6912/as.png');
-    background-size: cover;
+    background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgviIHeiaIFtu3olHXn6KcFXjsFnPXlOXszMtRtOfBXGHvWugCcHBzl-UcCxj5F7V7Ic95ESt2yk0bU0zQBl_uW0g7PErerI4WqK3DMXh6Nf2NR4HzrU5znSW30ciLrB7Id4R4Fv-fuV28Yx8BOrFxpc9ZnrFXD-n5KeyJvt9vAkVe7geEq1yH_nbC12kU/s669/Untitled.png');
+    /* background-size: cover; */
     background-position: center;
     border-radius: 10px;
     margin-bottom: 20px;
@@ -27,7 +27,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.4);
+    /* background: rgba(0, 0, 0, 0.4); */
   }
   
   h1, h2, h3 {

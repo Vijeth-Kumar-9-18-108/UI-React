@@ -5,7 +5,7 @@ const AboutUs = () => (
   <div className="container fade-in">
     <h1>About Us</h1>
     <p>Welcome to Food Wonder, where we celebrate the best vegetarian cuisine. Our mission is to offer a delightful dining experience with high-quality ingredients and mouth-watering dishes.</p>
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwjKxq23dpg4U9Ow364pIixNvUwgJL8MdVgJBSsbvMIFbFoHBBlwL-8Re4g0-T5-orkoZlzmOb4DX-g_18ZL6K42uzPiC0IkCQcx2txQ40mVhNmZY9-7ZWcCfTgHy4qkE7jAvN5cOjZseQlEMWEGhN9rYQSqTLArRV2GYgMJpFdnH-_pz_VPwuoXrH5vU/w945-h600-p-k-no-nu/milestone%20HoteL.png" alt="About Us" className="about-image" />
+    {/* <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwjKxq23dpg4U9Ow364pIixNvUwgJL8MdVgJBSsbvMIFbFoHBBlwL-8Re4g0-T5-orkoZlzmOb4DX-g_18ZL6K42uzPiC0IkCQcx2txQ40mVhNmZY9-7ZWcCfTgHy4qkE7jAvN5cOjZseQlEMWEGhN9rYQSqTLArRV2GYgMJpFdnH-_pz_VPwuoXrH5vU/w945-h600-p-k-no-nu/milestone%20HoteL.png" alt="About Us" className="about-image" /> */}
     <p>Our chefs are dedicated to creating unique and flavorful dishes that cater to all taste buds. From traditional recipes to modern twists, we have something for everyone</p>
     <div className="team">
       <h2>Meet Our Team</h2>
