@@ -48,39 +48,7 @@ const Home = () => (
         </div>
       </div>
     </div>
-    <div className="featured-items">
-      <h2>Featured Items</h2>
-      <div className="featured-item">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOF57uw_DNIUTbEcLBnCPTWt1LfGexB9vgF0wI837RteNt3bcFn1hS7Eq77Ue_1uZJUXefxqPtrqGCmkwdDOTFYVk4aJPZbw38AbgwNt5kQsJ8RCusOL_WFFFFuua69P3BD9r5iL4R-6fUi6GiYB2I7yxaQ_oRYNcBCfCWceeKyV1JpMgMtjy0_t5sWbs/s626/WhatsApp%20Image%202024-12-20%20at%2021.52.45.jpeg" alt="Sides" height={400} width={600}/>
-        <h3>North Indian thali</h3>
-        <p>A North Indian thali is a diverse platter featuring a variety of dishes like roti, rice, dal, sabzi, raita, pickles, and a sweet, offering a balanced and flavorful meal.</p>
-      </div>
-      <div className="featured-item">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4c_dFrNfn0vhq3XXORHpV3lvaykcEQ_4QNOWyrMrQYKq_Pzlxg06i9UC7-NuTJpjthp_24V9hTMYQEGGzkDe_hzkZ34AlmY15G8nLk3UTjZB_MBaPO_PTjpI6aUM1oVRuD49-Dq_tSA3Z1otP6GsFIQ2WWxm9zEhSTRaCy6T9ux9Xdvit5uA5N_1TTPA/s800/WhatsApp%20Image%202024-12-20%20at%2021.56.22.jpeg" alt="Sides" height={400} width={600} />
-        <h3>South Indian thali</h3>
-        <p>A South Indian thali is a traditional meal served on a banana leaf, featuring a variety of dishes like rice, sambar, rasam, vegetable curries, chutneys, curd, and pickles, offering a flavorful and wholesome experience.</p>
-      </div>
-      <div className="featured-item">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gOeCEIIKuDgmw3R2BrJrdBXawfr7U8nZCV9fQPDJ0PAQoznPTHsSGBL02GyhtGtFIFFcc2yonvh0WUofo6rdfG0eVVrX66CQ9H7K1IDAdRoP-7o3BckOSUGDQpDsQ8aI5a-A9q6wcRykvXWIRi-dYjWvLQ9-za4AysQsqIaWYD8hp5CWo-YnYZ2M5xQ/s1280/WhatsApp%20Image%202024-12-20%20at%2021.59.38.jpeg" alt="Sides" height={400} width={600} />
-        <h3>Chicken Tikka Kebab</h3>
-        <p>Chicken Tikka Kebab is a popular Indian appetizer made of marinated chicken pieces, grilled or baked to perfection, offering a smoky, flavorful taste with a tender, juicy texture.</p>
-      </div>
-      <div className="featured-item">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR5h__2y40dopEgMpaNhzPZAi-z0Kc0N3r1GeRLo4r4WJV34oWNCa2TnOoySstPpgEbAq-g_pR1TjDD-vSKVSlcFNIMWSVSiPdstMK5WMJzp0MWQ5VBV5tfToosDrFgC4_RJEKYw8k6DpyzcGIRP15LXt-wf4jfZVZppdG3j3tIGfQuDrathPe0eXWgbU/s474/WhatsApp%20Image%202024-12-20%20at%2022.01.01.jpeg" alt="Sides"  height={400} width={600}/>
-                <h3>Paneer Tikka</h3>
-        <p>Paneer Tikka is a vegetarian Indian dish made of marinated cubes of paneer (Indian cottage cheese), grilled or baked to a smoky, flavorful perfection.</p>
-      </div>
-      <div className="featured-item">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc3GdoXZUHD7QfEYA_7Ca5uAiuaZ7yKLeP7mZJDd90Dufkik2rtlMsfQlfQAjQ8QVDhSYP-i8B8U8KEh1kL0mnuLH8ZUfCxgilv5mYhp1m6L6519xXwholnlnMKTfeZEhrWT8i9962jLaSuxXRSB2AAMBnESTHJp_Ebzi_E16e4ZXMXNyWrUnWmOfBCss/s1280/WhatsApp%20Image%202024-12-20%20at%2022.06.24.jpeg" alt="Sides"  height={400} width={600}/>
-        <h3>Gobi</h3>
-        <p>Gobi is a popular Indian dish made with cauliflower, often cooked in a spiced gravy or dry sautéed, offering a flavorful and aromatic vegetarian option.</p>
-      </div>
-      <div className="featured-item">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2YyJ06XBCwTthhC7JLNcrAKwSs37x-fFYYSKZyZBj8e3KcNXjJHSb86JToxVTYbjUVcKhppZxv_aaSUFSgC7YP-OFgLfJsHFonRSXrACFnOnSOZqZHjx1_TGrVekxeb8AUelGUD4v5V64HUBVVOoVkuTYfOYJPFKCp-5VuECfPznfH8HnaKEF6rEPaAc/s550/WhatsApp%20Image%202024-12-20%20at%2022.12.06.jpeg" alt="Sides"  height={400} width={600}/>
-        <h3>Babycorn Manchurian</h3>
-        <p>Babycorn Manchurian is a popular Indo-Chinese dish made with crispy fried baby corn pieces tossed in a tangy, spicy Manchurian sauce.</p>
-      </div>
-    </div>
+    
   </div>
 );
 
